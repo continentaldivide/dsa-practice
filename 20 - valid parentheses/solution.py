@@ -24,7 +24,6 @@ class Stack:
       self.data.pop()
       return last
 
-
 class Solution:
     def isValid(self, s: str) -> bool:
       my_stack = Stack()
