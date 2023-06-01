@@ -13,7 +13,4 @@ class Solution:
         print(s_reduced)
         print(rev_str)
 
-        if s_reduced.lower() == rev_str:
-            return True
-        else:
-            return False
+        return s_reduced.lower() == rev_str

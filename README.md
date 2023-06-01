@@ -9,3 +9,5 @@ This is a personal repo for the purpose of tracking my solutions to leetcode pro
 [125: Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
 [217: Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+
+[242: Valid Anagram](https://leetcode.com/problems/valid-anagram)
