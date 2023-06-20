@@ -1,5 +1,7 @@
+from typing import List
+
 class Solution:
-    def kidsWithCandies(self, candies: list[int], extraCandies: int) -> list[bool]:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
         highest = 0
         bools = []
         for c in candies:
