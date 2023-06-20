@@ -1,3 +1,10 @@
+from __future__ import annotations
+
+try:
+    from typing import List
+except:
+    pass
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         hash = {}
