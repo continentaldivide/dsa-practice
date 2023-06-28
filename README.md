@@ -18,4 +18,6 @@ This is a personal repo for the purpose of tracking my solutions to leetcode pro
 
 [242: Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
+[682: Baseball Game](https://leetcode.com/problems/baseball-game)
+
 [1431: Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
